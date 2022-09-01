@@ -1,6 +1,6 @@
 - 👋 Hi, I am Scipio
 - 👀 I’m interested in mastering Javascript and backend development
-- 💞️ I’m looking to collaborate on full stack e-commerce stores
+- 💞️ I’m looking to collaborate on full stack e-commerce sites/apps
 - 📫 How to reach me devthree@scipiomundine.com
 
 <!---
